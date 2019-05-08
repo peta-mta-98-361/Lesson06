@@ -1,0 +1,10 @@
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\bin\Debug\QueryCS.exe.config
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\bin\Debug\QueryCS.exe
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\bin\Debug\QueryCS.pdb
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.csprojAssemblyReference.cache
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.Form1.resources
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.Properties.Resources.resources
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.csproj.GenerateResource.cache
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.csproj.CoreCompileInputs.cache
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.exe
+C:\Users\mchittenden\Downloads\Exam-98-361-Prep-master\Exam-98-361-Prep-master\Lesson06\QueryCS\obj\Debug\QueryCS.pdb
